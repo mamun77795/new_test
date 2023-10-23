@@ -3,10 +3,10 @@ composer version: 2.6.5 <br>
 PHP version: 8.2.4 <br>
 Laravel version: 10 <br>
 
-<h5> How to set up and run the project <h5>
-Download the project of php laravel environment<br>
+## How to set up and run the project <h5>
+Move the project to php laravel environment<br>
 
-## open the project root 
+open the project root <br>
 create mysql database: e_banking <br>
 then artisan command: <br>
 php artisan key:generate <br>
