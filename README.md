@@ -1,21 +1,19 @@
-# new_test
-
 ## About version 
-composer version: 2.6.5
-PHP version: 8.2.4
-Laravel version: 10
+composer version: 2.6.5 <br>
+PHP version: 8.2.4 <br>
+Laravel version: 10 <br>
 
-<h3> How to set up and run the project <h3>
-Download the project of php laravel environment
+<h5> How to set up and run the project <h5>
+Download the project of php laravel environment<br>
 
 ## open the project root 
-create mysql database: e_banking
-then artisan command: 
-php artisan key:generate
-php artisan migrate 
-php artisan db:seed UserSeeder
-php artisan serve
+create mysql database: e_banking <br>
+then artisan command: <br>
+php artisan key:generate <br>
+php artisan migrate <br>
+php artisan db:seed UserSeeder <br>
+php artisan serve <br>
 
-## After Opening 
-Login email: mizan@gmail.com
-Password: 12345
+## LOGIN <br>
+email: mizan@gmail.com <br>
+Password: 12345 <br>
