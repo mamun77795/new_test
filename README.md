@@ -15,5 +15,5 @@ php artisan db:seed UserSeeder <br>
 php artisan serve <br>
 
 <b> LOGIN</b> <br>
-email: mizan@gmail.com <br>
+Email: mizan@gmail.com <br>
 Password: 12345 <br>
